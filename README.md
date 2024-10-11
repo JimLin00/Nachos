@@ -4,7 +4,7 @@ Ubuntu 24
 
 sudo apt-get install build-essential
 
-#開啟 x86
+# 開啟 x86
 sudo dpkg --add-architecture i386
 
 sudo apt-get install csh
